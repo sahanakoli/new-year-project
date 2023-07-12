@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 1600px;
+    height: 808px;
+    background-image: url("images/banner/banner3.png");
+}
+.banner{
+    text-align: right;
+    padding-right: 230px;
+    padding-top: 216px;
+}
+.banner-title{
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+}
+.banner-desciption{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    color: #FFF;
+}
+.btn{
+    background-color: #FFF;
+    color: #005FAC;
+    border:none;
+    padding: 10px;
+    border-radius: 5px;
+}
