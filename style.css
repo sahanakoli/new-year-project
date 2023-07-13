@@ -82,3 +82,24 @@ padding-top: 100px;
     align-items: center;
     text-align: center;
 } 
+.section{
+    background-image: url("images/watch.png");
+    background-repeat: no-repeat;
+    width: 70%;
+    margin: auto;
+    height: 300px;
+    border-radius: 5px;
+
+}
+.class{
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 700;
+    padding-bottom: 15px;
+}
+.section-item{
+    padding-top: 80px;
+padding-left: 50px;
+}
+border-radius: 8px;
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%);
