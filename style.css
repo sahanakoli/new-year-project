@@ -29,17 +29,17 @@
     padding: 10px;
     border-radius: 5px;
 }
-.banner-section{
+.main-section{
     width: 1600px;
-    height: 808px;
+    height: 850px;
     background-color: #FFF;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.banner-section-item{
-    padding-top: 130px;
-    padding-right: 260px;
+.main-section-item{
+    padding-top: 160px;
+    padding-right: 270px;
     
 }
 .img{
@@ -56,9 +56,29 @@
     color: #444343;
 }
 .list-item{
-    color: #5c5a5a;
+    color: #444343;
 font-size: 16px;
 font-weight: lighter;
-
+}
+.check{
+    color: #16D887;
+    stroke-width: 2px;
+}
+.Plan{
+    color:  #151414;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+padding-top: 100px;
 
 }
+.icons{
+    width: 80%;
+    margin: auto;
+    height: 320px;
+    background-color: #FFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+} 
